@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(skyblue,yellow);
+    text-align: center;
+}
+h1 {
+    color: coral;
+    font-family: fantasy;
+}
+hr {
+    width:100px;
+    background-color:black;
+    
+}
+h2 {
+    color:darkcyan;
+    font-family: monospace;
+}
